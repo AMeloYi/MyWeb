@@ -1,9 +1,0 @@
-﻿id,name,maxHealth,valueOfAttack,hasShield,maxShield,attackViewGridNum,debuffTime,attackCD,price,placeCD
-0,Paimon,300,0,0,0,0,0,24,50,7.5
-1,Amber,300,20,0,0,10,10,1.4,100,7.5
-2,Kaeya,300,20,0,0,1,15,1.4,75,7.5
-3,Lisa,300,20,0,0,10,5,1.4,175,7.5
-4,Noelle,2000,0,1,2000,0,0,0,50,30
-5,Xiangling,300,20,0,0,2,0,0.8,75,7.5
-6,Guoba,300,1800,0,0,10,10,0,125,50
-7,Tutu,300,1800,0,0,1.5,0,0,150,50
